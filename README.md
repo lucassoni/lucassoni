@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2> ----- Lucas Soni Teixeira -----</h2>
 
-<!--
-**lucassoni/lucassoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+	<ul>
+		<li>💻 BSc Computer Science at <a href="https://www.ufpr.br/portalufpr/">UFPR</a></li>
+	</ul>
+</div>
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div class"d-flex">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=github_dark&username=lucassoni&langs_count=10&hide=makefile&exclude_repo=vim-mods" alt="top languages">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassoni&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true" alt="Lucas's GitHub Stats">
+</div> 
+<br>
